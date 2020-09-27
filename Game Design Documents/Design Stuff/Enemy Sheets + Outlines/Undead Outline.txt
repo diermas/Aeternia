@@ -1,0 +1,18 @@
+Skeleton encounter introduces a mechanic with the skeleton knight and skeleton mob which lets them reassemble 
+if their hp reaches, this encounter has a blend of poison, frost and stuns.
+
+Skeletons deal a blend of single target physical/poison damage and the ability to stun a unit for a turn.
+
+Skeleton Knights are primarily physical damage but provide more aoe focused attacks as well as having a 
+more powerful stun aswell as being able to return to the fight like the skeleton.
+
+Undead Mage provides cc & poison to the encounter, being able to stack frost like the cryomancer if they reach 5 
+stacks on a unit they stun the unit for a turn. While not being able to return to the fight like the other units
+they're capable of draining HP from a unit to sustain damage taken. 
+
+Resistances for all units:
+Physical - Resist
+Magical - Normal
+Fire - Weak
+Ice - Resist
+Holy - Weak

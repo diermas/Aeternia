@@ -1,0 +1,18 @@
+Goblin encounter will begin with at least 1 Goblin, 1 Hob Goblin and 1 Goblin Mage.
+The main goal is to blend in a mixture of attack variants from single target to aoe damage.
+
+Goblins are focused expanding their units and sabotage with the chance to destroy a card in a players hand and
+bring in reinforcements.
+
+Hob Goblin is to act as the main damage dealer delivering heavy aoe damage, single target damage 
+and also being the main front line being able to taunt units on the field to focus him.
+
+Goblin Mage is more of a support role providing heals and cc while also being able to dish 
+out a fair bit of damage.
+
+Resistances for all units:
+Physical - Normal
+Magical - Normal
+Fire - Normal
+Ice - Normal
+Holy - Normal

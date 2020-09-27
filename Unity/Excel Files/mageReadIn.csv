@@ -1,0 +1,34 @@
+﻿ID,Card name,Card Class,Card Cost,Card Effect,Card Count,Takes a Target,Number of Targets,Target Type,is BUFF?
+1,Arcane Bolt,STARTER,0,Deal 2 magical damage.,1,TRUE,1,Enemy,FALSE
+2,Bolt,STARTER,0,Deal 1 magical damage.,2,TRUE,1,Enemy,FALSE
+3,Meditate,STARTER,0,Gain 1 Mana.,7,FALSE,0,None,FALSE
+4,Arcane Wave,ARCANE,6,Deal 3 magical damage to all enemies.,5,FALSE,0,None,FALSE
+5,Manaburn,ARCANE,8,Consume all your Mana. Deal 2 magical damage for each Mana consumed.,4,TRUE,1,Enemy,FALSE
+6,Manafount,ARCANE,5,Gain 3 Mana.,7,FALSE,0,None,FALSE
+7,Manaflow,ARCANE,3,Gain 2 Mana.,7,FALSE,0,None,FALSE
+8,Magic Missile,ARCANE,2,Deal 2 magical damage.,5,TRUE,1,Enemy,FALSE
+9,Manasurge,ARCANE,7,Gain 5 Mana.,7,FALSE,0,None,FALSE
+10,Seek Spells,ARCANE,4,Draw 2 cards.,5,FALSE,0,None,FALSE
+11,Spellsurge,ARCANE,6,Draw 3 cards.,5,FALSE,0,None,FALSE
+12,Arcane Blast,ARCANE,5,Deal 7 magical damage.,5,TRUE,1,Enemy,FALSE
+13,Mana Trance,ARCANE,3,BUFF: Gain 1 Mana at the start of each turn.,4,FALSE,0,None,TRUE
+14,Ignition,PYROMANCY,3,Deal 3 fire damage. Destroy a card in your Hand or Discard pile to deal an extra 2 damage.,5,TRUE,1,Enemy,FALSE
+15,Explosion,PYROMANCY,8,Deal 5 fire damage to all enemies.,4,FALSE,0,None,FALSE
+16,Burning Touch,PYROMANCY,2,Deal 2 fire damage. Inflict 1 Burn.,6,TRUE,1,Enemy,FALSE
+17,Emberdraw,PYROMANCY,3,All enemies gain 1 Burn. Draw 1 card.,5,FALSE,0,None,FALSE
+18,Flame Siphon,PYROMANCY,5,Deal 4 fire damage. Gain 2 Mana.,6,TRUE,1,Enemy,FALSE
+19,Exhaust,PYROMANCY,4,Deal 3 fire damage. Destroy a card in your Hand or Discard pile to inflict 2 Burn.,5,TRUE,1,Enemy,FALSE
+20,Flame Blast,PYROMANCY,7,Deal 10 fire damage.,4,TRUE,1,Enemy,FALSE
+21,Heat Shock,PYROMANCY,5,Draw 2 cards. Destroy a card in your Hand or Discard pile to draw 2 more.,5,FALSE,0,None,FALSE
+22,Flamewave,PYROMANCY,5,Deal 2 fire damage to all enemies and inflict 1 Burn.,5,FALSE,0,None,FALSE
+23,Soulfire,PYROMANCY,5,Gain 2 Mana. Destroy a card in your Hand or Discard pile to gain 2 more.,7,FALSE,0,None,FALSE
+24,Shatter Ice,CRYOMANCY,3,Consume all Frost on the target. Deal 2 ice damage for each Frost consumed.,5,TRUE,1,Enemy,FALSE
+25,Powder Snow,CRYOMANCY,4,Deal 2 ice damage to all enemies.,5,FALSE,0,None,FALSE
+26,Freeze,CRYOMANCY,3,Stun an enemy for 1 turn.,6,TRUE,1,Enemy,FALSE
+27,Frostbite,CRYOMANCY,1,Deal 1 ice damage.Target gains 1 extra Frost.,6,TRUE,1,Enemy,FALSE
+28,Iceheart,CRYOMANCY,5,Deal 5 ice damage.,5,TRUE,1,Enemy,FALSE
+29,Cold Snap,CRYOMANCY,4,All enemies gain 1 Frost.,5,FALSE,0,None,FALSE
+30,Ice Shards,CRYOMANCY,2,Deal 1 ice damage to two random targets.,6,FALSE,0,None,FALSE
+31,Ice Shell,CRYOMANCY,5,TARGETABLE BUFF: Any enemy that attacks this player receives 1 Frost.,4,TRUE,1,Player,TRUE
+32,Quick Thaw,CRYOMANCY,7,Deal 5 ice damage to all enemies with Frost. Consumes all Frost.,4,FALSE,0,None,FALSE
+33,Snowmelt,CRYOMANCY,3,Consume all Frost on the target. Gain 1 Mana for each Frost consumed.,7,TRUE,1,Enemy,FALSE

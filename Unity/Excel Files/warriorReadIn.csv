@@ -1,0 +1,49 @@
+﻿ID,Card name,Card Class,Card Cost,Card Effect,Card Count,Takes a Target,Number of Targets,Target Type,Is BUFF?
+400,Provoke,STARTER,0,Taunt 1 enemy for 1 turn.,1,TRUE,1,Enemy,FALSE
+401,Charge,STARTER,0,Deal 1 physical damage.,2,TRUE,1,Enemy,FALSE
+402,Rage,STARTER,0,Gain 1 Bloodlust.,7,FALSE,0,None,FALSE
+403,Shields Up,WARFARE,2,Gain 3 defence.,5,FALSE,0,None,FALSE
+404,Brute Force,WARFARE,5,Deal 5 physical damage.,5,TRUE,1,Enemy,FALSE
+405,Reinforcements,WARFARE,5,Gain 3 Bloodlust.,7,FALSE,0,None,FALSE
+406,War-Torn,WARFARE,4,Deal 2 physical damage to all enemies.,5,FALSE,0,None,FALSE
+407,Blood Brothers,WARFARE,3,Gain 2 Bloodlust.,7,FALSE,0,None,FALSE
+408,Stalwart,WARFARE,4,Gain 5 defence.,5,FALSE,0,None,FALSE
+409,Morality,WARFARE,4,BUFF: All attacks deal 1 extra physical damage.,5,FALSE,0,None,TRUE
+410,Challenging Shout,WARFARE,4,Taunt all enemies for 1 turn.,5,FALSE,0,None,FALSE
+411,Rush Ahead,WARFARE,3,Draw 2 cards.,5,FALSE,0,None,FALSE
+412,Face Me!,WARFARE,2,Taunt 1 enemy for 1 turn.,5,TRUE,1,Enemy,FALSE
+413,Axe Throw,BERSERKER,2,Deal 2 physical damage and taunt target for 1 turn.,5,TRUE,1,Enemy,FALSE
+414,Enrage,BERSERKER,3,Take 3 damage and gain 3 Rage.,6,TRUE,1,Enemy,FALSE
+415,Seethe,BERSERKER,4,Draw 2 cards. 3 Rage: Gain 3 Bloodlust.,7,FALSE,0,None,FALSE
+416,Heavy Swing,BERSERKER,9,Deal 8 physical damage. 10 Rage: Deal 16 physical damage instead.,4,TRUE,1,Enemy,FALSE
+417,Sweeping Blade,BERSERKER,4,Deal 1 physical damage to all enemies and taunt them for 1 turn.,5,FALSE,0,None,FALSE
+418,Slam,BERSERKER,3,Deal 3 physical damage. 2 Rage: Deal 2 extra physical damage.,5,TRUE,1,Enemy,FALSE
+419,Reckless Charge,BERSERKER,3,Deal 3 physical damage and gain 2 Rage.,5,TRUE,1,Enemy,FALSE
+420,Pummel,BERSERKER,5,Deal 2 physical damage. All Rage: Deal 2 extra physical damage for each Rage consumed.,5,TRUE,1,Enemy,FALSE
+421,Follow Through,BERSERKER,5,Deal 4 physical damage. 3 Rage: Draw 1 card.,5,TRUE,1,Enemy,FALSE
+422,Edge of Madness,BERSERKER,6,BUFF: Gain 4 Rage at the start of each turn.,4,FALSE,0,None,TRUE
+423,Stand the Line,DEFENDER,7,Taunt all enemies for 1 turn. Gain 5 defence.,5,FALSE,0,None,FALSE
+424,Combat Lock,DEFENDER,6,Taunt target for 3 turns.,5,TRUE,1,Enemy,FALSE
+425,Triage,DEFENDER,7,Heal 6 damage from yourself.,4,FALSE,0,None,FALSE
+426,Guard,DEFENDER,4,Gain 3 Bloodlust and 3 defence.,7,FALSE,0,None,FALSE
+427,Shield Slam,DEFENDER,3,Deal 1 physical damage for each 2 defence you have.,6,TRUE,1,Enemy,FALSE
+428,Advance,DEFENDER,3,Gain 3 defence and draw 1 card.,5,FALSE,0,None,FALSE
+429,Bandages,DEFENDER,2,Heal 1 damage and gain 2 defence.,5,FALSE,0,None,FALSE
+430,Endure,DEFENDER,10,Your health cannot drop below 1 this turn.,4,FALSE,0,None,FALSE
+431,Shield Form,DEFENDER,5,BUFF: Gain 1 defence at the start of each turn. Defence no longer breaks after each turn.,4,FALSE,0,None,TRUE
+432,Last Stand,DEFENDER,9,Gain 15 defence.,4,FALSE,0,None,FALSE
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

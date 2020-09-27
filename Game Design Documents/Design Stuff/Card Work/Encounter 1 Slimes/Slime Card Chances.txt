@@ -1,0 +1,7 @@
+Divide: 5%
+Goop: 15%
+Merge: 5%
+Slime Bash: 35%
+Slime Block: 20%
+Slime Smash: 10%
+Slime Stun: 10%

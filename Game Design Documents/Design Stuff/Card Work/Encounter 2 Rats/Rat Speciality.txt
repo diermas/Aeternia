@@ -1,0 +1,1 @@
+Disease damage is damage that occours every round with a drop off of -1 per round

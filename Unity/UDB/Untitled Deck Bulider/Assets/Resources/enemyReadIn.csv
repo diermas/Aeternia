@@ -1,0 +1,20 @@
+﻿ID,Card name,Card Class,Range Min,Range Max,Card Effect
+2001,Heavy Smash,BIG SLIME,91,100,Deal 10 physical damage.
+2002,Heavy Bash,BIG SLIME,51,90,Deal 4 physical damage.
+2003,Daze,BIG SLIME,31,50,Stun target for 1 turn.
+2004,Split,BIG SLIME,1,30,Split into two Medium Slimes.
+2005,Smash,MEDIUM SLIME,86,100,Deal 7 physical damage.
+2006,Bash,MEDIUM SLIME,46,85,Deal 3 physical damage
+2007,Split,MEDIUM SLIME,21,45,Split into two Small Slimes.
+2008,Grow,MEDIUM SLIME,1,20,Gain 4 health.
+2009,Light Smash,SMALL SLIME,76,100,Deal 4 physical damage.
+2010,Light Bash,SMALL SLIME,31,75,Deal 2 physical damage.
+2011,Grow,SMALL SLIME,1,30,Gain 3 health.
+2101,Summon Swarm,RAT KING,86,100,Summon 2-4 Rats.
+2102,King's Bite,RAT KING,51,85,Deal 5 physical damage.
+2103,King's Shield,RAT KING,21,50,Gain 10 defense.
+2104,King's Boon,RAT KING,1,20,Heal 5 damage.
+2105,Poison Bite,GIANT RAT,51,100,Deal 4 physical damage. Target gains 2 poison.
+2106,Tail Swipe,GIANT RAT,21,50,Deal 3 physical damage to all enemies.
+2107,Body Block,GIANT RAT,1,20,All other Rats gain 3 defense.
+2108,Gnaw,RAT,1,100,Deal 2 physical damage.

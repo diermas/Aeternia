@@ -1,0 +1,44 @@
+﻿ID,Card name,Card Class,Card Cost,Card Effect,Card Count,Takes a Target,Number of Targets,Target Type,Is BUFF?
+200,Flurry,SCOUT STARTER,0,Deal 1 physical damage to two targets at random.,1,FALSE,0,None,FALSE
+201,Strike,SCOUT STARTER,0,Deal 1 physical damage.,2,TRUE,1,Enemy,FALSE
+202,Recover,SCOUT STARTER,0,Gain 1 Focus.,7,FALSE,0,None,FALSE
+203,Critical Focus,SCOUT,3,Gain 2 Focus.,7,FALSE,0,None,FALSE
+204,Backstab,SCOUT,2,Deal 3 physical damage.,5,TRUE,1,Enemy,FALSE
+205,Poison Blade,SCOUT,2,The next attack inflicts 2 stacks of poison.,5,TRUE,1,Enemy,FALSE
+206,Expose Weakness,SCOUT,3,Attacks deal 1 extra physical damage this turn.,5,FALSE,0,None,FALSE
+207,Sieght of Hand,SCOUT,3,Draw 2 cards.,5,FALSE,0,None,FALSE
+208,Swift Strikes,SCOUT,5,Deal 6 physical damage.,5,TRUE,1,Enemy,FALSE
+209,Absolute Focus,SCOUT,5,Gain 3 Focus.,7,FALSE,0,None,FALSE
+210,Quickstep,SCOUT,4,Deal 2 physical damage. Draw 1 card.,5,TRUE,1,Enemy,FALSE
+211,Smoke Bomb,SCOUT,4,Stun an enemy for 1 turn.,5,TRUE,1,Enemy,FALSE
+212,Fan of Knives,SCOUT,5,Deal 2 physical damage to all enemies.,5,FALSE,0,None,FALSE
+213,Toxic Dart,POISON MASTER,2,Target gains 2 stacks of poison.,3,TRUE,1,Enemy,FALSE
+214,Miasma,POISON MASTER,5,All enemies gain 2 stacks of poison.,9,FALSE,0,None,FALSE
+215,Poisonous Burn,POISON MASTER,3,Deal physical damage equal to an enemy's current poison.,4,TRUE,1,Enemy,FALSE
+216,Poison Draw,POISON MASTER,4,Target gains 2 poison. Draw 1 card.,4,TRUE,1,Enemy,FALSE
+217,Poison Focus,POISON MASTER,6,Target gains 3 poison. Gain 3 Focus.,7,TRUE,1,Enemy,FALSE
+218,Toxic Sting,POISON MASTER,6,Deal 2 poison damage to a target and draw 2 cards.,7,TRUE,1,Enemy,FALSE
+219,Well of Venom,POISON MASTER,5,BUFF: All enemies gain 1 poison at the start of each turn.,7,FALSE,0,None,TRUE
+220,Catalyst,POISON MASTER,4,Consume a target's poison to deal double the amount consumed.,6,TRUE,1,Enemy,FALSE
+221,Venom Tip,POISON MASTER,1,Deal 1 physical damage. Target gains 1 poison.,2,TRUE,1,Enemy,FALSE
+222,Venom Drench,POISON MASTER,7,Triple the poison on an enemy.,12,TRUE,1,Enemy,FALSE
+223,Mark of Pain,SHADOWBLADE,2,Mark an enemy with Pain. When they receive damage: the Mark activates to deal 3 physical damage.,3,TRUE,1,Enemy,FALSE
+224,Shadow Strike,SHADOWBLADE,5,Deal 3 physical damage. If Living Shadow is active: deal an extra 6 physical damage and consume a Shadow.,5,TRUE,1,Enemy,FALSE
+225,Mark of Fire,SHADOWBLADE,4,Mark an enemy with Fire. When they receive damage: the Mark activates to deal 2 fire damage to all enemies.,6,TRUE,1,Enemy,FALSE
+226,Shadow Draw,SHADOWBLADE,3,Deploy a Living Shadow. Draw 1 card.,4,FALSE,0,None,FALSE
+227,Deadly Flourish,SHADOWBLADE,8,Deal 3 physical damage to all enemies. If Living Shadow is active: deal an extra 1 physical damage and consume a Shadow.,12,FALSE,0,None,FALSE
+228,Execution,SHADOWBLADE,7,Deal 10 physical damage.,10,TRUE,1,Enemy,FALSE
+229,Preparation,SHADOWBLADE,7,Gain 5 Focus.,5,FALSE,0,None,FALSE
+230,Mark of Shadow,SHADOWBLADE,3,Mark yourself with Shadow. When you receive damage: the Mark activates to deploy a Living Shadow.,3,FALSE,0,None,FALSE
+231,Shadeswarm,SHADOWBLADE,4,Deploy 3 Living Shadows.,6,FALSE,0,None,FALSE
+232,Shadow's End,SHADOWBLADE,10,Deal 7 physical damage. For each Living Shadow active: deal an extra 4 physical damage and consume the Shadow.,15,TRUE,1,Enemy,FALSE
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

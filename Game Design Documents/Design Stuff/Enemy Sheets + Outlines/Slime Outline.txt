@@ -1,0 +1,10 @@
+Slime encounter starts as a single Big Slime.
+The main feature of the Slimes is their ability to Split into smaller Slimes.
+When a Slime uses Split, it is replaced by two Slimes of the next size down, with health equal to that of the previous.
+
+Resistances:
+Physical - Resist
+Magical - Normal
+Fire - Normal
+Ice - Normal
+Holy - Normal

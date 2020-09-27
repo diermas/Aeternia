@@ -1,0 +1,2 @@
+All undead take extra damage from holy attacks. 
+?? desided when damage types are sorted

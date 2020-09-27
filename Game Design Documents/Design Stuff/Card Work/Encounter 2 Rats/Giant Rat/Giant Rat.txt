@@ -1,0 +1,6 @@
+Rat Pack 	  - 5%
+Pest Outbreak     - 30%
+Reproduction	  - 10%
+Rat Infestation   - 5%
+Craving Blood 	  - 20%
+Volatile Outburst - 40%
